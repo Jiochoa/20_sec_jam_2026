@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b4be912211814333ab61898b6440dc8e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254358
+  packageName: Hot Reload | Edit Code Without Compiling
+  packageVersion: 1.13.22
+  assetPath: Packages/com.singularitygroup.hotreload/Editor/Helpers/GUIHelper.cs
+  uploadId: 933942
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

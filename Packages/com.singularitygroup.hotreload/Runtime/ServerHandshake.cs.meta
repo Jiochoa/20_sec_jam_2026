@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2b0e8e99bb55456888ff440a83e3e082
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254358
+  packageName: Hot Reload | Edit Code Without Compiling
+  packageVersion: 1.13.22
+  assetPath: Packages/com.singularitygroup.hotreload/Runtime/ServerHandshake.cs
+  uploadId: 933942
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

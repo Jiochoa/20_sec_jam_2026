@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cdf64a3e60e072246b68b318588201f4
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67414
+  packageName: 2D Flexible Platformer Controller
+  packageVersion: 1.5
+  assetPath: Assets/CharacterEditorPackage/Prefabs/AbilityModules/DefaultPlayer/DefaultSlidingModule.prefab
+  uploadId: 362478
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

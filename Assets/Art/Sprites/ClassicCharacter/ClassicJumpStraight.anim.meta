@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1cf9b4775466e145a28ad9c69ff7602
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67414
+  packageName: 2D Flexible Platformer Controller
+  packageVersion: 1.5
+  assetPath: Assets/CharacterEditorPackage/Sprites/ClassicCharacter/ClassicJumpStraight.anim
+  uploadId: 362478
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

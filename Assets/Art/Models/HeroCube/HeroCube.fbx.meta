@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 52d36d33fce325d418954a15ae7b4342
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67414
+  packageName: 2D Flexible Platformer Controller
+  packageVersion: 1.5
+  assetPath: Assets/CharacterEditorPackage/Models/HeroCube/HeroCube.fbx
+  uploadId: 362478
+ModelImporter:
+  serializedVersion: 24501
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Center
+  - first:
+      1: 100002
+    second: Character
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: LeftArm
+  - first:
+      1: 100008
+    second: LeftLeg
+  - first:
+      1: 100010
+    second: LowerLeftArm
+  - first:
+      1: 100012
+    second: LowerLeftArm_end
+  - first:
+      1: 100014
+    second: LowerLeftLeg
+  - first:
+      1: 100016
+    second: LowerLeftLeg_end
+  - first:
+      1: 100018
+    second: LowerRightArm
+  - first:
+      1: 100020
+    second: LowerRightArm_end
+  - first:
+      1: 100022
+    second: LowerRightLeg
+  - first:
+      1: 100024
+    second: LowerRightLeg_end
+  - first:
+      1: 100026
+    second: Middle
+  - first:
+      1: 100028
+    second: Plane
+  - first:
+      1: 100030
+    second: RightArm
+  - first:
+      1: 100032
+    second: RightLeg
+  - first:
+      1: 100034
+    second: Skeleton
+  - first:
+      1: 100036
+    second: Plane.001
+  - first:
+      1: 100038
+    second: Plane.002
+  - first:
+      4: 400000
+    second: Center
+  - first:
+      4: 400002
+    second: Character
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: LeftArm
+  - first:
+      4: 400008
+    second: LeftLeg
+  - first:
+      4: 400010
+    second: LowerLeftArm
+  - first:
+      4: 400012
+    second: LowerLeftArm_end
+  - first:
+      4: 400014
+    second: LowerLeftLeg
+  - first:
+      4: 400016
+    second: LowerLeftLeg_end
+  - first:
+      4: 400018
+    second: LowerRightArm
+  - first:
+      4: 400020
+    second: LowerRightArm_end
+  - first:
+      4: 400022
+    second: LowerRightLeg
+  - first:
+      4: 400024
+    second: LowerRightLeg_end
+  - first:
+      4: 400026
+    second: Middle
+  - first:
+      4: 400028
+    second: Plane
+  - first:
+      4: 400030
+    second: RightArm
+  - first:
+      4: 400032
+    second: RightLeg
+  - first:
+      4: 400034
+    second: Skeleton
+  - first:
+      4: 400036
+    second: Plane.001
+  - first:
+      4: 400038
+    second: Plane.002
+  - first:
+      23: 2300000
+    second: Plane
+  - first:
+      23: 2300002
+    second: Plane.001
+  - first:
+      23: 2300004
+    second: Plane.002
+  - first:
+      33: 3300000
+    second: Plane
+  - first:
+      33: 3300002
+    second: Plane.001
+  - first:
+      33: 3300004
+    second: Plane.002
+  - first:
+      43: 4300000
+    second: Plane
+  - first:
+      43: 4300002
+    second: Character
+  - first:
+      43: 4300004
+    second: Plane.001
+  - first:
+      43: 4300006
+    second: Plane.002
+  - first:
+      74: 7400000
+    second: HeroCube_Idle
+  - first:
+      74: 7400002
+    second: HeroCube_Run
+  - first:
+      74: 7400004
+    second: HeroCube_Jump
+  - first:
+      74: 7400006
+    second: HeroCube_Fall
+  - first:
+      74: 7400008
+    second: HeroCube_FallLoop
+  - first:
+      74: 7400010
+    second: HeroCube_WallSlide
+  - first:
+      74: 7400012
+    second: HeroCube_Climb
+  - first:
+      74: 7400014
+    second: HeroCube_ClimbIdle
+  - first:
+      74: 7400016
+    second: HeroCube_Jetpack
+  - first:
+      74: 7400018
+    second: HeroCube_FallUp
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Character
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: HeroCube_Idle
+      takeName: Skeleton|Idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_Run
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 45
+      lastFrame: 105
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_Jump
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 107
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_Fall
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 128
+      lastFrame: 148
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_FallLoop
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 148
+      lastFrame: 168
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_WallSlide
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 171
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_Climb
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 183
+      lastFrame: 202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_ClimbIdle
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 201
+      lastFrame: 202
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_Jetpack
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 107
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: HeroCube_FallUp
+      takeName: Skeleton|SkeletonAction
+      internalID: 0
+      firstFrame: 126
+      lastFrame: 127
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane.001
+        weight: 1
+      - path: Plane.002
+        weight: 1
+      - path: Skeleton
+        weight: 1
+      - path: Skeleton/Center
+        weight: 1
+      - path: Skeleton/Center/Middle
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftArm/LowerLeftArm/LowerLeftArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/LeftLeg/LowerLeftLeg/LowerLeftLeg_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm
+        weight: 1
+      - path: Skeleton/Center/Middle/RightArm/LowerRightArm/LowerRightArm_end
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg
+        weight: 1
+      - path: Skeleton/Center/Middle/RightLeg/LowerRightLeg/LowerRightLeg_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 1
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

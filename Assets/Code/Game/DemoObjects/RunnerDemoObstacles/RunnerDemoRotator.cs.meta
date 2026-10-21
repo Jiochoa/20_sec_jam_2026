@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d725c95dedb6eae4c96a4bc447cc4ea7
+AssetOrigin:
+  serializedVersion: 1
+  productId: 67414
+  packageName: 2D Flexible Platformer Controller
+  packageVersion: 1.5
+  assetPath: Assets/CharacterEditorPackage/Code/Game/DemoObjects/RunnerDemoObstacles/RunnerDemoRotator.cs
+  uploadId: 362478
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

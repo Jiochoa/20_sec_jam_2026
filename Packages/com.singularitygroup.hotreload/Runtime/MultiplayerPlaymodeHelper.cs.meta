@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: caf15b822bf74e8491daf33e58c4f11e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 254358
+  packageName: Hot Reload | Edit Code Without Compiling
+  packageVersion: 1.13.22
+  assetPath: Packages/com.singularitygroup.hotreload/Runtime/MultiplayerPlaymodeHelper.cs
+  uploadId: 933942
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
